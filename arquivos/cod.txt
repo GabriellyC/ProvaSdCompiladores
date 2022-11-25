@@ -1,0 +1,23 @@
+programa
+  variavel a
+  variavel b
+  variavel c
+  verifique a
+  verifique b
+  c <- a + b
+  confere a > b execute
+     apresente a
+  senao
+     apresente b
+  fimconfere
+  novalinha
+  apresente "Soma de a e c: "
+  apresente c
+  novalinha
+  para 1 ate 10 em c
+    apresente c
+  	novalinha
+  fimpara
+
+fimprograma
+

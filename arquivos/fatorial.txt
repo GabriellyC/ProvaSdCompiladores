@@ -1,0 +1,20 @@
+programa
+
+  variavel num
+  variavel res
+  variavel count
+  variavel i
+  
+  res <- 1 
+  count <- 1
+  
+  verifique num
+  
+  para count ate num em i
+  	res <- res * i
+  fimpara
+  
+  novalinha
+  apresente res
+  
+fimprograma
