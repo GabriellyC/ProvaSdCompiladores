@@ -1,0 +1,27 @@
+programa
+
+  variavel num
+  variavel res
+  variavel count
+  variavel i
+  
+  res <- 1 
+  count <- 1
+  
+  apresente "Tabuada do numero: "
+  verifique num
+  
+  para count ate 10 em i
+      res <- num * i
+    apresente i
+    apresente " x "
+    apresente num
+    apresente " igual a "
+    apresente res 
+    novalinha
+
+  fimpara
+  
+  novalinha
+ 
+fimprograma
